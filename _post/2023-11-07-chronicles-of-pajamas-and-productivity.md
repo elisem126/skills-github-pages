@@ -1,4 +1,4 @@
 ---
-title: "Chronicles-of-Pajamas-and-Productivity"
+title: "Welcome to my blog"
 date: 2023-11-07
 ---
